@@ -20,7 +20,7 @@ A Fullstack Software Engineer,
 
 ### 🔠 🔨 Languages and Tools:
 <hr>
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26)]
+
 
 
 
