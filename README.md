@@ -1,9 +1,10 @@
-### Hi there 👋🏾, I'm Femi, 
-<hr>
+ # Hi there 👋🏾, I'm Femi
+ 
 
-### 🚀 About Me:
-A Fullstack Software Engineer,
-<hr> 
+
+# 🚀 About Me: ###
+## A Fullstack Software Engineer 
+
 📧Email: Femibam1@gmail.com 
 <br>
 <br>
@@ -11,6 +12,8 @@ A Fullstack Software Engineer,
 <br>
 <br>
 😎 Fun Fact: While visiting Thailand, I lost a friendly bet to a buddy of mine and as a result of losing that bet, I had to eat 10 crickets! 😬. Interestingly enough, it tasted great! 
+<br><br>
+🏀 Another Fun Fact: I can name the universities that almost every NBA player attended! 
 <br>
 <br>
 <br>
@@ -18,9 +21,16 @@ A Fullstack Software Engineer,
 
 
 
-### 🔠 🔨 Languages and Tools:
-<hr>
+# 🧠 🔠 🔨 Languages and Tools I've Learned:
+<hr> 
 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Logo" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs Logo" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCss Logo" height="50" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCODE Logo" height="50" width="50" />
+          
+
+          
+          
 
 
 
