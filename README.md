@@ -3,13 +3,16 @@
 
 # A Fullstack Software Engineer 
 ## 🚀 About Me: 
-education: <br>
+Education: <br>
  { <br>
   "certificate": "Web Devolopment Bootcamp", <br>
   "bachelors": "Sport Management" <br>
  } <br>
- fields of interests: Fullstack Development, Frontend Developer, Insurtech <br>
- hobbies: sports, hiking, biking, chess, traveling, reading
+ <br>
+Fields of interests: Fullstack Development, Frontend Developer, Insurtech 
+ <br>
+ <br>
+Hobbies: Sports, Hiking, Biking, Chess, Traveling, Reading
 
 
 📧Email: Femibam1@gmail.com 
@@ -24,9 +27,6 @@ education: <br>
 <br>
 <br>
 <br>
-<br>
-
-
 
 # 🧠 🔠 🔨 Languages and Tools I've Learned:
  
