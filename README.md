@@ -1,9 +1,9 @@
  # Hi there 👋🏾, I'm Femi
  
 
-# A Fullstack Software Engineer 
+# A Fullstack Software Engineer 👨🏾‍💻 
 ## 🚀 About Me: 
-Education: <br>
+📚 Education: <br>
  { <br>
   "certificate": "Web Devolopment Bootcamp", <br>
   "bachelors": "Sport Management" <br>
