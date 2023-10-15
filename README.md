@@ -1,9 +1,16 @@
  # Hi there 👋🏾, I'm Femi
  
 
+# A Fullstack Software Engineer 
+## 🚀 About Me: 
+education: <br>
+ { <br>
+  "certificate": "Web Devolopment Bootcamp", <br>
+  "bachelors": "Sport Management" <br>
+ } <br>
+ fields of interests: Fullstack Development, Frontend Developer, Insurtech <br>
+ hobbies: sports, hiking, biking, chess, traveling, reading
 
-# 🚀 About Me: ###
-## A Fullstack Software Engineer 
 
 📧Email: Femibam1@gmail.com 
 <br>
@@ -22,7 +29,7 @@
 
 
 # 🧠 🔠 🔨 Languages and Tools I've Learned:
-<hr> 
+ 
 
 
 
