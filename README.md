@@ -9,7 +9,7 @@
   "bachelors": "Sport Management" <br>
  } <br>
  <br>
-Fields of interests: Fullstack Development, Frontend Developer, Insurtech 
+Fields of interests: Fullstack Development 
  <br>
  <br>
 Hobbies: Sports, Hiking, Biking, Chess, Traveling, Reading
@@ -21,9 +21,9 @@ Hobbies: Sports, Hiking, Biking, Chess, Traveling, Reading
 🚻 Connect: www.linkedin.com
 <br>
 <br>
-😎 Fun Fact: While visiting Thailand, I lost a friendly bet to a buddy of mine and as a result of losing that bet, I had to eat 10 crickets! 😬. Interestingly enough, it tasted great! 
+😎 Fun Fact: I recently started taking meditation classes, and I love it! 
 <br><br>
-🏀 Another Fun Fact: I can name the universities that almost every NBA player attended! 
+🏀 Another Fun Fact: I absolutely despise mustard! Ketchup > Mustard!  
 <br>
 <br>
 <br>
