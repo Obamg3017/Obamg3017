@@ -6,7 +6,7 @@
 📚 Education: <br>
  { <br>
   "certificate": "General Assembly Software Engineering Bootcamp", <br>
-  "bachelors": "Sport Management" <br>
+  "bachelors": "The College at Brockport State University of New York — Sport Management" <br>
  } <br>
  <br>
 Fields of interests: Fullstack Development 
@@ -23,7 +23,7 @@ Hobbies: Sports, Hiking, Biking, Chess, Traveling, Reading
 <br>
 😎 Fun Fact: I recently started taking meditation classes, and I love it! 
 <br><br>
-🏀 Another Fun Fact: I absolutely despise mustard! Ketchup > Mustard!  
+Another Fun Fact: I absolutely despise mustard! Ketchup > Mustard!  
 <br>
 <br>
 <br>
