@@ -1,7 +1,7 @@
  ## Welcome 👋🏾, I'm Femi — A Fullstack Software Engineer 👨🏾‍💻 
  ### 📧Email: Femibam1@gmail.com 
  ### 🚻 Let's Connect: www.linkedin.com/in/olorunfemi-bamgbose
- ### 📁 Check out my Portfolio Website: https://www.olorunfemi-bamgbose.com/
+ ### 📁 Check out my Portfolio Website: www.olorunfemi-bamgbose.com/
  ### Hobbies: 
  * I love playing all sports like Basketball, Football, and Baseball. I also enjoy Hiking, Biking, playing Chess, Traveling, Cooking, Reading, and Meditation! 
  ### 😎 Fun Fact: Did you know that “Femi” in Yoruba (a native language of Nigeria) means “love me”? So every time you say my name, you’re literally spreading love! 
