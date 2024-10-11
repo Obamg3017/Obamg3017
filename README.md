@@ -1,30 +1,12 @@
- # Welcome 👋🏾, I'm Femi
- # A Fullstack Software Engineer 👨🏾‍💻 
-
- # 🚀 About Me:
- - I'm a motivated and reliable Software Engineer who loves tackling challenges and finding solutions. My passion for technology sparked in high school, and I've since gained valuable experience through completing boot camps working on various projects, and working as a Junior Software Developer. I enjoy collaborating with diverse teams to create cool, user-friendly applications that make life easier. Always eager to learn and grow, I'm excited about the future of tech!
-
- ## 📚 Education: 
- - Bachelors: The College at Brockport State University of New York — Sport Management
- - Certificate: General Assembly Computer Software Engineering Bootcamp
- - Certificate: FullStack Academy Software Web Development Immersive Bootcamp
-  
- ## Fields of interests: 
- - Fullstack Engineer, Front-end Developer, Back-end Engineer 
-
- ## Hobbies: 
- - I love playing all sports like Basketball, Football, and Baseball. I also enjoy Hiking, Biking, playing Chess, Traveling, Cooking, Reading, and Meditation! 
-
- ## 📧Email: Femibam1@gmail.com 
-
- ## 🚻 Let's Connect: www.linkedin.com/in/olorunfemi-bamgbose
-
- ## 😎 Fun Fact: Did you know that “Femi” in Yoruba (a native language of Nigeria) means “love me”? So every time you say my name, you’re literally spreading love! 
- 
- ## 🍔 Another Fun Fact: I absolutely despise mustard! 🚫 Team Ketchup all day!   
-<br>
-
-## 🧠 🔠 Languages I've Learned:
+ ## Welcome 👋🏾, I'm Femi — A Fullstack Software Engineer 👨🏾‍💻 
+ ### 📧Email: Femibam1@gmail.com 
+ ### 🚻 Let's Connect: www.linkedin.com/in/olorunfemi-bamgbose
+ ### 📁 Check out my Portfolio Website: https://www.olorunfemi-bamgbose.com/
+ ### Hobbies: 
+ * I love playing all sports like Basketball, Football, and Baseball. I also enjoy Hiking, Biking, playing Chess, Traveling, Cooking, Reading, and Meditation! 
+ ### 😎 Fun Fact: Did you know that “Femi” in Yoruba (a native language of Nigeria) means “love me”? So every time you say my name, you’re literally spreading love! 
+ ### 🍔 Another Fun Fact: I absolutely despise mustard! 🚫 Team Ketchup all day!
+ ### 🧠 🔠 Languages I've Learned:
 <img src="https://github.com/user-attachments/assets/2e983c48-0206-4bb4-8079-a491782c82fa" alt="javascript-img" width="40"/> <img src="https://github.com/user-attachments/assets/b104edf7-8948-4a23-b1b7-683e6e25b110" alt="python-img" width="40"/>
 <img src="https://github.com/user-attachments/assets/ca36adc0-f4ce-4ab6-9031-24894ecabac1" alt="react-image" width="40"/> <img src="https://github.com/user-attachments/assets/d00bba85-5816-4502-b1e1-bdc0776dbe04" alt="node-img" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb-img" width="40"/> <img src="https://github.com/user-attachments/assets/5eff3ce2-8299-4966-9a82-e04f2a997969" alt="sql-img" width="40"/>
